@@ -16,7 +16,7 @@ theme:
         icon: 'fa-tag'
   menu:
     - type: 'page'
-      title: 'Home'
+      title: 'Lens'
       url: '/'
     - type: "wikiSections"
     - type: 'taxonomy'
