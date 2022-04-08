@@ -9,10 +9,7 @@ site:
 
 theme:
   social:
-    facebook: 'facebookUsername'
-    twitter: 'twitterHandle'
-    instagram: 'instagramHandle'
-    github: 'githubUsername'
+    github: 'panolens'
     other:
       - label: 'linkedin'
         link: 'https://www.example.com'
